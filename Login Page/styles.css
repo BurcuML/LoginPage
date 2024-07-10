@@ -170,7 +170,7 @@ body{
 }
 
 .overlay-left{
-    transform: translateX(-200%);
+    transform: translateX(-100%);
 }
 .container.active .overlay-left{
     transform: translateX(0);
@@ -180,5 +180,5 @@ body{
     right: 0;
 }
 .container.active .overlay-right{
-    transform: translateX(200%);
+    transform: translateX(100%);
 }
